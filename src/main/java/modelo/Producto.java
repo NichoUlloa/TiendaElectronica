@@ -53,7 +53,8 @@ public class Producto {
         this.categoriaProducto = categoriaProducto;
     }
 
-    //métodos
+
+
     //metodo Mostrar información completa del producto.
     public void mostrarProducto() {
         System.out.println("Nombre: " + nombreProducto);
@@ -62,6 +63,5 @@ public class Producto {
         System.out.println("Stock: " + stockProducto);
         System.out.println("Categoría: " + categoriaProducto);
     }
-
 
 }
