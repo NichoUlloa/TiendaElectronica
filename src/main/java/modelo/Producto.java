@@ -1,14 +1,12 @@
 package modelo;
 
 public class Producto {
-    //atributos
     private String nombreProducto;
     private String descripcionProducto;
     private double precioProducto;
     private int stockProducto;
     private String categoriaProducto;
 
-    //constructor
     public Producto(String nombreProducto, String descripcionProducto, double precioProducto, int stockProducto, String categoriaProducto) {
         this.nombreProducto = nombreProducto;
         this.descripcionProducto = descripcionProducto;
@@ -17,7 +15,6 @@ public class Producto {
         this.categoriaProducto = categoriaProducto;
     }
 
-    //getters y setters
     public String getNombreProducto() {
         return nombreProducto;
     }
@@ -54,8 +51,6 @@ public class Producto {
     }
 
 
-
-    //metodo Mostrar información completa del producto.
     public void mostrarProducto() {
         System.out.println("Nombre: " + nombreProducto);
         System.out.println("Descripción: " + descripcionProducto);
@@ -63,5 +58,4 @@ public class Producto {
         System.out.println("Stock: " + stockProducto);
         System.out.println("Categoría: " + categoriaProducto);
     }
-
 }

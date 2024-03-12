@@ -1,20 +1,17 @@
 package modelo;
 
 public class Tienda {
-    //atributos
     private String nombreTienda;
     private String direccionTienda;
     //lista de productos
     private Producto[] productos;
 
-    //constructor
     public Tienda(String nombreTienda, String direccionTienda, Producto[] productos) {
         this.nombreTienda = nombreTienda;
         this.direccionTienda = direccionTienda;
         this.productos = productos;
     }
 
-    //getters y setters
     public String getNombreTienda() {
         return nombreTienda;
     }
@@ -36,15 +33,12 @@ public class Tienda {
         this.productos = productos;
     }
 
-    //métodos
-    //metodo Mostrar todos los productos disponibles en venta con su información completa.
     public void mostrarProductos() {
         for (Producto producto : productos) {
             producto.mostrarProducto();
         }
     }
 
-    //metodo Buscar un producto por su nombre o categoría.
     public void buscarProducto(String nombreProducto) {
         for (Producto producto : productos) {
             if (producto.getNombreProducto().equals(nombreProducto)) {
@@ -53,7 +47,6 @@ public class Tienda {
         }
     }
 
-    //metodo Agregar un nuevo producto a la lista de productos con todos sus atributos.
     public void agregarProducto(Producto producto) {
         Producto[] productosNuevos = new Producto[productos.length + 1];
         for (int i = 0; i < productos.length; i++) {
@@ -63,7 +56,6 @@ public class Tienda {
         productos = productosNuevos;
     }
 
-    //metodo Modificar la información (atributos) de un producto existente. explica el funcionamiento de este método.
     public void modificarProducto(String nombreProducto, String descripcionProducto, double precioProducto, int stockProducto, String categoriaProducto) {
         for (Producto producto : productos) {
             if (producto.getNombreProducto().equals(nombreProducto)) {
@@ -75,7 +67,6 @@ public class Tienda {
         }
     }
 
-    //metodo eliminar un producto de la lista de productos.
     public void eliminarProducto(String nombreProducto) {
         Producto[] productosNuevos = new Producto[productos.length - 1];
         int j = 0;
@@ -88,7 +79,6 @@ public class Tienda {
         productos = productosNuevos;
     }
 
-    //metodo Realizar una compra, disminuyendo el stock del producto vendido.
     public void realizarCompra(String nombreProducto, int cantidad) {
         for (Producto producto : productos) {
             if (producto.getNombreProducto().equals(nombreProducto)) {
@@ -96,5 +86,4 @@ public class Tienda {
             }
         }
     }
-
 }
