@@ -12,6 +12,6 @@ Desarrollar un programa en Java que permita gestionar esta problemática, con la
 - Producto
 
 ### Diagrama de clases UML:
-![TiendaElectronica](https://github.com/NichoUlloa/TiendaElectronica/assets/145157325/77b18241-d5e5-4c69-a3a5-574e9ab3b18a)
+![TiendaElectronica](https://github.com/NichoUlloa/TiendaElectronica/assets/145157325/a5d49e1c-6be5-46b1-846e-5479d783c598)
 
 
