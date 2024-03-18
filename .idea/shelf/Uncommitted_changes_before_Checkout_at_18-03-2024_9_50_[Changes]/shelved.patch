@@ -1,0 +1,70 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"cc51a78e-97f8-4048-9643-ec41f4f8d69c\" name=\"Changes\" comment=\"Creacion de clase Main y estructura de las clases anteriores junto a sus metodos\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/principal/Main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/modelo/Producto.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/modelo/Producto.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/modelo/Tienda.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/modelo/Tienda.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Nico\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2dbA8V7svg1XfYb4zGTj6hZGPZw\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"Nico1\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/Nicho/IdeaProjects/TiendaElectronica/src/main/java/org/example/Main.java\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"principal.Main\" />\r\n      <module name=\"TiendaElectronica\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"principal.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"cc51a78e-97f8-4048-9643-ec41f4f8d69c\" name=\"Changes\" comment=\"\" />\r\n      <created>1710266248740</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1710266248740</updated>\r\n      <workItem from=\"1710266249956\" duration=\"920000\" />\r\n      <workItem from=\"1710267184216\" duration=\"350000\" />\r\n      <workItem from=\"1710267637994\" duration=\"1332000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Creacion de proyecto\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710266371584</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710266371584</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Creacion de primeras clases\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710267150863</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710267150863</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Creacion de clase Main y estructura de las clases anteriores junto a sus metodos\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710268117487</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710268117487</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Creacion de proyecto\" />\r\n    <MESSAGE value=\"Creacion de primeras clases\" />\r\n    <MESSAGE value=\"Creacion de clase Main y estructura de las clases anteriores junto a sus metodos\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Creacion de clase Main y estructura de las clases anteriores junto a sus metodos\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>\r\n          <line>13</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,13 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="cc51a78e-97f8-4048-9643-ec41f4f8d69c" name="Changes" comment="Creacion de clase Main y estructura de las clases anteriores junto a sus metodos">
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/principal/Main.java" afterDir="false" />
++    <list default="true" id="cc51a78e-97f8-4048-9643-ec41f4f8d69c" name="Changes" comment="Actualizacion de clase main y README.md">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/Producto.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/Tienda.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -59,6 +54,7 @@
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
+     "onboarding.tips.debug.path": "C:/Users/Nicho/IdeaProjects/TiendaElectronica/src/main/java/org/example/Main.java",
++    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -99,7 +95,8 @@
+       <updated>1710266248740</updated>
+       <workItem from="1710266249956" duration="920000" />
+       <workItem from="1710267184216" duration="350000" />
+-      <workItem from="1710267637994" duration="1332000" />
++      <workItem from="1710267637994" duration="2127000" />
++      <workItem from="1710761855860" duration="1557000" />
+     </task>
+     <task id="LOCAL-00001" summary="Creacion de proyecto">
+       <option name="closed" value="true" />
+@@ -125,7 +122,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1710268117487</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Actualizacion de clase main y README.md">
++      <option name="closed" value="true" />
++      <created>1710269027224</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1710269027224</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -135,7 +140,8 @@
+     <MESSAGE value="Creacion de proyecto" />
+     <MESSAGE value="Creacion de primeras clases" />
+     <MESSAGE value="Creacion de clase Main y estructura de las clases anteriores junto a sus metodos" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de clase Main y estructura de las clases anteriores junto a sus metodos" />
++    <MESSAGE value="Actualizacion de clase main y README.md" />
++    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion de clase main y README.md" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
